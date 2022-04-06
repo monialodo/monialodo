@@ -15,18 +15,9 @@ I'm a self-taught BackEnd developer from Brazil
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monialodo&layout=compact&langs_count=7&theme=radical" />
 </a>
-    
-    
-
-    
-    ![Monia's GitHub stats](https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical)
-    
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monialodo&layout=compact&langs_count=7&theme=radical)]
-
-    
 
 
-    
+<p>   
     <a href="https://www.linkedin.com/in/monialodo" alt="linkedin" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
     </a>

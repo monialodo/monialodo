@@ -12,7 +12,7 @@ I'm a self-taught BackEnd developer from Brazil
     
     ![Monia's GitHub stats](https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical&width="495")
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monialodo&layout=compact&langs_count=7&theme=radical)]
-  
+    </div>
 
     
     <a href="https://www.linkedin.com/in/monialodo" alt="linkedin" target="_blank">

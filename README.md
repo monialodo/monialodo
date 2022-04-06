@@ -10,7 +10,7 @@ I'm a self-taught BackEnd developer from Brazil
 
     <div class="stats" >
     
-        <div class="stats1"> 
+     <div class="statBlock" >
     ![Monia's GitHub stats](https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical&width="495")    
         </div>
         

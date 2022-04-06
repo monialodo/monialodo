@@ -8,9 +8,14 @@ I'm a self-taught BackEnd developer from Brazil
 - 📫 How to reach me: <a href="mailto:monialodo@gmail.com">monialodo@gmail.com 
 - ⚡ Fun fact: I'm a graduate biologist that used to work with bacterias and prawns 
 
-    <div align="center">
+    <div class="stats" >
     
-    ![Monia's GitHub stats](https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical&width="495")
+        <div class="stats1"> 
+    ![Monia's GitHub stats](https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical&width="495")    
+        </div>
+        
+        
+    
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monialodo&layout=compact&langs_count=7&theme=radical)]
 
     </div>

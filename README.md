@@ -8,6 +8,15 @@ I'm a self-taught BackEnd developer from Brazil
 - 📫 How to reach me: <a href="mailto:monialodo@gmail.com">monialodo@gmail.com 
 - ⚡ Fun fact: I'm a graduate biologist that used to work with bacterias and prawns 
 
+    
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monialodo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monialodo&repo=convoychat" />
+</a>
+    
+    
 
     
     ![Monia's GitHub stats](https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical)

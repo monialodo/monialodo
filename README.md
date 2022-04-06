@@ -13,7 +13,7 @@ I'm a self-taught BackEnd developer from Brazil
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monialodo&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monialodo&layout=compact&langs_count=7&theme=radical" />
 </a>
     
     

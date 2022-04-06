@@ -9,13 +9,11 @@ I'm a self-taught BackEnd developer from Brazil
 - ⚡ Fun fact: I'm a graduate biologist that used to work with bacterias and prawns 
 
 
-<p>
+    
+    [Monia's GitHub stats](https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical)
+    [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monialodo&layout=compact&langs_count=7&theme=radical)]
+    
 
-    
-    ![Monia's GitHub stats](https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monialodo&layout=compact&langs_count=7&theme=radical)]
-    
-</p>
     
 
 

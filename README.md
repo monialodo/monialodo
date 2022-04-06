@@ -9,7 +9,7 @@ I'm a self-taught BackEnd developer from Brazil
 - ⚡ Fun fact: I'm a graduate biologist that used to work with bacterias and prawns 
 
 ![Monia's GitHub stats](https://github-readme-stats.vercel.app/api?username=monialodo&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monialodo&layout=compact&langs_count=7&theme=radical)]
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monialodo&layout=compact&langs_count=7&theme=radical)
 
 
 <p>   
@@ -19,6 +19,8 @@ I'm a self-taught BackEnd developer from Brazil
     <a href="mailto:monialodo@gmail.com" alt="gmail" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com" />
     </a>
+    
+    <p>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">

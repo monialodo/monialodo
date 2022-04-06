@@ -32,8 +32,4 @@ I'm a self-taught BackEnd developer from Brazil
     <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
     </p>
    
-    github_user_name: ${{ monialodo}}
 
-   gif_out_path: dist/github-snake.gif
-
-    svg_out_path: dist/github-snake.svg

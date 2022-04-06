@@ -24,7 +24,7 @@ I'm a self-taught BackEnd developer from Brazil
     <a href="mailto:monialodo@gmail.com" alt="gmail" target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com" />
     </a>
-    
+    </p>
 <p>
     
 
@@ -40,4 +40,5 @@ I'm a self-taught BackEnd developer from Brazil
     
 
     
+    </p>
 

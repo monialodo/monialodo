@@ -30,7 +30,7 @@ I'm a self-taught BackEnd developer from Brazil
     <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
     <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
-    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">  
+    <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
     </p>
    
 
